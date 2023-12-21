@@ -1,0 +1,15 @@
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\Демид\Desktop\GeekBrains\Введение в программирование\Ptactics005\Task1\obj\Debug\net6.0\ref\Task1.dll
